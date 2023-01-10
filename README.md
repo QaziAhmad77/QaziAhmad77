@@ -1,6 +1,6 @@
 # Qazi Ahmad
 
-![Profile Picture](https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png)
+![Profile Picture](https://fullstackacademy.in/wp-content/uploads/2021/04/Blog-Article-MERN-Stack.jpg)
 
 ## About Me
 I am a MERN stack developer with experience in building full-stack web applications. My skills include proficiency in JavaScript, Node.js, React, MongoDB, and Express. I am constantly seeking new challenges and learning opportunities to improve my skills and stay current with the latest technologies.
@@ -18,7 +18,7 @@ I am a MERN stack developer with experience in building full-stack web applicati
 
 - 📫 How to reach me **qaziahmad1877@gmail.com**
 
-- 📄 Know about my experiences [1 year](1 year)
+- 📄 Know about my experiences (1 year)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
