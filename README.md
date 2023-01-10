@@ -1,6 +1,6 @@
 # Qazi Ahmad
 
-<img align="right" src="https://cdn-images-1.medium.com/max/1200/1*dqvlaszRLvoPmARpOlLN9A.png" alt="Profile Picture" width="250" height="250"/>
+<img align="right" src="https://cdn-images-1.medium.com/max/1200/1*dqvlaszRLvoPmARpOlLN9A.png" alt="Profile Picture" width="400" height="300"/>
 
 ## About Me
 I am a MERN stack developer with experience in building full-stack web applications. My skills include proficiency in JavaScript, Node.js, React, MongoDB, and Express. I am constantly seeking new challenges and learning opportunities to improve my skills and stay current with the latest technologies.
