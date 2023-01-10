@@ -7,7 +7,7 @@ I am a MERN stack developer with experience in building full-stack web applicati
 
 ## Language Meter
 
-[![GitHub top language](https://img.shields.io/github/languages/top/QaziAhmad77/QaziAhmad77.svg)](https://github.com/QaziAhmad77/QaziAhmad77)
+![GitHub top language](https://img.shields.io/github/languages/top/QaziAhmad77/QaziAhmad77?style=flat-square)
 
 
 ## Contact
