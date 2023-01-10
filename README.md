@@ -1,16 +1,14 @@
-### Hi there 👋
+# Qazi Ahmad
 
-<!--
-**QaziAhmad77/QaziAhmad77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png)
 
-Here are some ideas to get you started:
+## About Me
+I am a MERN stack developer with experience in building full-stack web applications. My skills include proficiency in JavaScript, Node.js, React, MongoDB, and Express. I am constantly seeking new challenges and learning opportunities to improve my skills and stay current with the latest technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language Meter
+
+[![GitHub top language](https://img.shields.io/github/languages/top/qazi-ahmad/github-username.svg)](https://github.com/qazi-ahmad/github-username)
+
+## Contact
+You can reach me by email at qaziahmad1877@email.com or connect with me on LinkedIn at 
+[LinkedIn Profile Link](https://www.linkedin.com/in/qazi-ahmad-b4124b203)
