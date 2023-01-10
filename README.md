@@ -31,6 +31,6 @@ I am a MERN stack developer with experience in building full-stack web applicati
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaziahmad77&show_icons=true&locale=en&layout=compact" alt="qaziahmad77" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaziahmad77&show_icons=true&locale=en" alt="qaziahmad77" width="500" height="400"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaziahmad77&show_icons=true&locale=en" alt="qaziahmad77" width="400" height="350" margin="0"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaziahmad77&" alt="qaziahmad77" width="600" height="500"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaziahmad77&" alt="qaziahmad77" width="350" height="400" margin="0"/></p>
