@@ -7,7 +7,7 @@ I am a MERN stack developer with experience in building full-stack web applicati
 
 ## Language Meter
 
-[![GitHub top language](https://img.shields.io/github/languages/top/qazi-ahmad/github-username.svg)](https://github.com/qazi-ahmad/github-username)
+[![GitHub top language](https://img.shields.io/github/languages/top/qazi-ahmad/github-username.svg)](https://github.com/QaziAhmad77/QaziAhmad77)
 
 ## Contact
 You can reach me by email at qaziahmad1877@email.com or connect with me on LinkedIn at 
