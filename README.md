@@ -34,4 +34,5 @@ align="center" /></div>
 
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaziahmad77&" alt="qaziahmad77" align="center" /></div>
-[![An image of @qaziahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qaziahmad)](https://holopin.io/@qaziahmad)
+
+[![](https://holopin.me/qaziahmad)](https://holopin.io/@qaziahmad)
