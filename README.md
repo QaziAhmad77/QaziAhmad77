@@ -8,9 +8,9 @@ I am a MERN stack developer with experience in building full-stack web applicati
 <h1 align="center">Hi 👋, I'm Qazi Ahmad</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **blood_connect project**
+- 🔭 I’m currently working on different MERN projects
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate with **different web apps.**
 
