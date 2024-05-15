@@ -3,14 +3,14 @@
 <img align="right" src="https://cdn-images-1.medium.com/max/1200/1*dqvlaszRLvoPmARpOlLN9A.png" alt="Profile Picture" width="400" height="300"/>
 
 ## About Me
-I am a MERN stack developer with experience in building full-stack web applications. My skills include proficiency in JavaScript, Node.js, React js, Express MongoDB and SQL (Sequelize). I am constantly seeking new challenges and learning opportunities to improve my skills and stay current with the latest technologies.
+I am a Full stack developer with experience in building full-stack web applications. My skills include proficiency in JavaScript, Node.js, React js,Next js, MongoDB (Mongoose), SQL (Sequelize) and firebase. I am constantly seeking new challenges and learning opportunities to improve my skills and stay current with the latest technologies.
 
 <h1 align="center">Hi 👋, I'm Qazi Ahmad</h1>
-<h3 align="center">A passionate MERN developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on different MERN projects
+- 🔭 I’m currently working on different Full Stack applications
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Type Script**
 
 - 👯 I’m looking to collaborate with **different web apps.**
 
