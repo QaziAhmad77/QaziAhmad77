@@ -10,11 +10,11 @@ I am a Full stack developer with experience in building full-stack web applicati
 
 - 🔭 I’m currently working on different Full Stack applications
 
-- 💬 Ask me about **JavaScript, Node js, React js**
+- 💬 Ask me about **JavaScript, React js, Vue js,Astro js, Node js**
 
 - 📫 How to reach me **qaziahmad1877@gmail.com**
 
-- 📄 Know about my experiences (2 year)
+- 📄 Know about my experiences (2.5 year)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
