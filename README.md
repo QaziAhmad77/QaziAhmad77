@@ -78,13 +78,9 @@ const developer = {
 
 <br/>
 
-## 📊 GitHub Stats
+## 🏆 Badges
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=QaziAhmad77&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=9ca3af" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaziAhmad77&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=9ca3af&langs_count=8" />
-</div>
+[![@qaziahmad's Holopin board](https://holopin.me/qaziahmad)](https://holopin.io/@qaziahmad)
 
 <br/>
 
