@@ -1,34 +1,103 @@
-# Qazi Ahmad
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=130&section=header&text=Qazi%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Vue.js%20%E2%80%A2%20AWS&descAlignY=60&descAlign=50&descSize=16&descColor=c7d2fe"/>
 
-<img align="right" src="https://cdn-images-1.medium.com/max/1200/1*dqvlaszRLvoPmARpOlLN9A.png" alt="Profile Picture" width="400" height="300"/>
+<div align="center">
 
-## About Me
-I am a Full stack developer with experience in building full-stack web applications. My skills include proficiency in JavaScript,TypeScript , Node.js, React js,Next js, MongoDB (Mongoose), SQL (Sequelize) and firebase. I am constantly seeking new challenges and learning opportunities to improve my skills and stay current with the latest technologies.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+for+3%2B+years+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Vue.js+%E2%80%A2+Astro.js;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+AWS+Cloud;Currently+building+GMC+%40+5.Y+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Qazi Ahmad</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<img src="https://komarev.com/ghpvc/?username=QaziAhmad77&label=Profile+Views&color=6366f1&style=flat-square" alt="profile views" />
 
-- 🔭 I’m currently working on different Full Stack applications
+</div>
 
-- 💬 Ask me about **JavaScript, React js, Vue js,Astro js, Node js**
+<br/>
 
-- 📫 How to reach me **qaziahmad1877@gmail.com**
+## 🧑‍💻 About Me
 
-- 📄 Know about my experiences (2.5 year)
+```ts
+const developer = {
+  name:       "Qazi Ahmad",
+  title:      "Full Stack Engineer",
+  location:   "Peshawar, Pakistan 🇵🇰",
+  experience: "3+ years",
+  building:   "GMC — GLUCOSE Management Console @ 5.Y 🟢",
+  stack:      ["React.js", "Next.js", "Vue.js", "Astro.js",
+               "Node.js", "TypeScript", "AWS"],
+  status:     "Open to opportunities",
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/qazi-ahmad-b4124b203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/qazi-ahmad-b4124b203" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmad302420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad302420" height="30" width="40" /></a>
-</p>
+- 🔭 Currently building **GMC** — an enterprise AI platform console at [**5.Y**](https://five-whys.com) · Singapore
+- 💼 **3 years** of experience across **4 companies** in **3 countries**
+- ⚡ Full-stack with **React ecosystem** on the frontend + **AWS cloud-native** backends
+- 🌐 Portfolio → [portfolio-626p.vercel.app](https://portfolio-626p.vercel.app)
+- 📫 Reach me → **qaziahmad1877@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=qaziahmad77&show_icons=true&count_private=true&hide_border=true" 
-align="center" /></div>  
+## 🛠️ Tech Stack
 
+**Frontend**
 
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaziahmad77&" alt="qaziahmad77" align="center" /></div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![](https://holopin.me/qaziahmad)](https://holopin.io/@qaziahmad)
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AWS Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=QaziAhmad77&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=9ca3af" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaziAhmad77&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=9ca3af&langs_count=8" />
+</div>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-626p.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qaziahmad/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qaziahmad1877@gmail.com)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer"/>
